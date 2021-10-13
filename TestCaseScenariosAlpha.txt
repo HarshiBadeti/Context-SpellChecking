@@ -1,0 +1,10 @@
+Test case scenarios for Alpha Context-Spell Checking:
+
+Here, we have used edit distance algorithm between every pair of words in dicionary. Edit distance is a measure of minimum edits required to convert one word to another.So, we have used edit distance 2 for now. Below are few test case scenarios for the edit distance 2:
+
+1)parrat               {parrot, part, apart, para, par, prat, parts, party, parapet, parrots, parka}
+2)hier                 {heir, hair, hear, hairier, harrier, hare, eerie, he, ere, hearer, eerier}
+3)creape               {crape, creeper, cheaper, recap, creep, crepe, scrape, carper, carapace, crease, create}
+4)helo                 {hello, hole, hell, heel, oleo, halo, holey, eel, heal, ole, hale}
+
+
