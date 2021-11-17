@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="typepad.css">
+    <script src="texarea.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Spell Checker</h1>
+    <form>
+        <div class="form-group">
+          <input type="text" class="form-control" id="formGroupExampleInput" placeholder="irish text" >
+        </div>
+    </form>
+    <div class="text_area">
+        <div class="btn-group1">
+            <button type="button" class="btn btn-dark"id="but-un" onclick="inserttext()">á</button>
+            <button type="button" class="btn btn-dark" id="but-un"onclick="inserttext1()">bé</button>
+            <button type="button" class="btn btn-dark"id="but-un">cé</button>
+            <button type="button" class="btn btn-dark"id="but-un">dé</button>
+            <button type="button" class="btn btn-dark"id="but-un">é</button>
+            <button type="button" class="btn btn-dark"id="but-un">eif</button>
+
+        </div>
+        <div class="btn-group2">
+            <button type="button" class="btn btn-dark" id="but-un">gé</button>
+            <button type="button" class="btn btn-dark" id="but-un">héis</button>
+            <button type="button" class="btn btn-dark"id="but-un">eil</button>
+            <button type="button" class="btn btn-dark"id="but-un">eim</button>
+            <button type="button" class="btn btn-dark"id="but-un">ein</button>
+            <button type="button" class="btn btn-dark"id="but-un">ó</button>
+
+        </div>
+        <div class="btn-group3">
+            <button type="button" class="btn btn-dark"id="but-un">pé</button>
+            <button type="button" class="btn btn-dark"id="but-un">ear</button>
+            <button type="button" class="btn btn-dark"id="but-un">eas</button>
+            <button type="button" class="btn btn-dark"id="but-un">té</button>
+            <button type="button" class="btn btn-dark"id="but-un">ú</button>
+            <button type="button" class="btn btn-dark"id="but-un" onclick="clear1()">clear</button>
+
+        </div>
+        <div class="btn-group4">
+            <button type="button" class="btn btn-dark">space</button>
+        </div>
+
+      
+        
+
+    
+    </div>
+</body>
+</html>
