@@ -1,0 +1,54 @@
+*{
+    background-color: darkgrey;
+}
+body{
+    color:black;
+    text-align: center;
+    padding: 5em 0, 2em;
+    margin: 0%;
+    background-color: darkgrey;
+
+}
+h1{
+    font-weight: 300;
+    padding: 10px;
+
+    text-align: center;
+    
+}
+.form-group{
+    padding: auto;
+}
+.btn-group1{
+    margin: 10px,4px,10px,0%;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.btn-group2{
+    margin: 10px,4px,10px,0%;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 30px;
+    cursor: pointer;
+
+}
+.btn-group3{
+    margin: 10px,4px,10px,0%;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.btn-group4{
+    margin: 10px,4px,10px,0%;
+    text-align: center;
+    padding: 14px 30px;
+    font-size: 30px;
+    cursor: pointer;
+
+}
