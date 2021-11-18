@@ -1,5 +1,5 @@
 This is a python program for Contextual Spell checking
-                                                 Autocorrection using NLP
+                                                                  **      Autocorrection using NLP**
 
 Find out if a word is right spelled through Natural Language Processing algorithm
 
